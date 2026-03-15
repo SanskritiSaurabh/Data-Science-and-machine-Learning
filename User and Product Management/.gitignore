@@ -1,0 +1,13 @@
+*.tar
+venv/env/.venv
+
+*.log
+*.pyc
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+.env
+
+*.db
